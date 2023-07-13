@@ -1,3 +1,3 @@
 export default function Home() {
-	return <div>Noamdfdfsffdfsfdsfsfsafsafsds</div>;
+	return <div>Noam</div>;
 }
