@@ -1,3 +1,8 @@
 export default function Home() {
-	return <div>Noam</div>;
+	return (
+		<div>
+			Hello World
+			<button>Click</button>
+		</div>
+	);
 }
